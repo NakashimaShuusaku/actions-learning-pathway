@@ -68,4 +68,3 @@ jobs:
       - name: deploy
         id: deployment
         uses: actions/deploy-pages@v1
-      - run: npm test
